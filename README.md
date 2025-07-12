@@ -70,7 +70,8 @@ Influenced by industry-standard applications like **WhatsApp** and **Messenger**
    
 - 🎨 **Theme Switcher**: Personalize appearance
   
-![Screenshot 2025-04-23 004432](https://github.com/user-attachments/assets/cdfb698d-c7da-4da7-af77-8c347f4bf3b1)
+<img width="1406" height="920" alt="Screenshot 2025-07-12 183133" src="https://github.com/user-attachments/assets/03a23787-0738-44c4-8356-3f64dde5608a" />
+
 
 
 ---
