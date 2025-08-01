@@ -1,4 +1,4 @@
-# 💬 TalkSpace - Real-Time Chat Application
+# 💬 TalkSpace : Real-Time Chat Application
 
 A secure, responsive, and real-time chat application built using the MERN stack and Socket.io, styled with TailwindCSS. This app supports one-to-one conversations, profile management, theme customization, and real-time presence detection.
 
