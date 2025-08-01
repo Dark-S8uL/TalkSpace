@@ -94,8 +94,8 @@ Influenced by industry-standard applications like **WhatsApp** and **Messenger**
 - JWT for authentication  
 - Cloudinary for profile picture management  
 
+<!--
 ---
-
 ## 🔧 Getting Started
 
 ### 📁 Setup `.env` file
@@ -114,9 +114,9 @@ CLOUDINARY_API_SECRET=your_api_secret
 NODE_ENV=development
 
 ```
-
 ### 🛠 Build the App
 npm run build
 
 ### ▶ Start the App
 npm start
+-->
